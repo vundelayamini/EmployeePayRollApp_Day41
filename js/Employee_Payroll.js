@@ -63,7 +63,7 @@ class EmployeePayrollData {
         return this._note;
     }
 
-    set notes(note) {
+    set note(note) {
         this._note = note;
     }
 

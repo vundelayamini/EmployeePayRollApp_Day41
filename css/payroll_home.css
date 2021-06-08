@@ -1,4 +1,3 @@
-/* UC1 */
 html body {
     margin: 0;
     height: 100%;
@@ -38,7 +37,7 @@ html body {
 .emp-payroll { color: #42515f; }
 
 * { box-sizing: border-box; }
-/* UC2 */  
+
 .main-content {
     display: flex;
     flex-direction: column;
@@ -88,7 +87,7 @@ html body {
     cursor: pointer;
     text-decoration: none; 
 }
-/* UC3 */
+
 .table-main {
     width: 80%;
     margin: 0 auto;
