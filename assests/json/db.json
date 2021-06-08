@@ -1,0 +1,16 @@
+{
+    "employee": [
+      {
+        "name": "Yamini",
+        "gender": "female",
+        "departMent": [
+          "Engineer"
+        ],
+        "salary": "36000",
+        "startDate": "2 june 2021",
+        "notes": "",
+        "id": 1580448,
+        "profileUrl": "../assets/profile-images/Ellipse 2.png"
+      }
+    ]
+  }
