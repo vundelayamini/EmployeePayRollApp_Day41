@@ -1,4 +1,3 @@
-//UC2-Update an employee payroll details
 let empPayrollList;
 window.addEventListener('DOMContentLoaded', (event) => {
     empPayrollList = getEmployeePayrollDataFromStorage();
